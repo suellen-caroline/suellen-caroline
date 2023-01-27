@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href = "suellen610@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
